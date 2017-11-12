@@ -4,5 +4,5 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
 function bestCustomer() {
-  bestCustomer = 'not {customerName}'
+  bestCustomer = 'not (customerName)'
 }
